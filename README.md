@@ -31,3 +31,14 @@
 ├── photo_001.jpg
 ├── 20210815_120000.png
 └── old_pic.jpg
+
+執行後：
+📁 你的照片資料夾/
+├── organize_photos.exe
+└── 📁 整理後照片/
+    ├── 📁 2021-08/
+    │   └── 20210815_120000.png
+    ├── 📁 2023-05/
+    │   └── photo_001.jpg
+    └── 📁 unclassified/
+        └── old_pic.jpg
